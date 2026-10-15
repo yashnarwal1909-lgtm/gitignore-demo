@@ -1,2 +1,3 @@
 Git and GitHub assignment
 This project demonstrates Git version control.
+Five commits are required for the assignment.
